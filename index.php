@@ -8,5 +8,9 @@
 <body>
 <h1>Hello world</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quas optio provident!</p>
+<ul>
+    <li>satu </li>
+    <li>dua </li>
+</ul>
 </body>
 </html>
